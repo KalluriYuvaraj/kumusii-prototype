@@ -30,7 +30,7 @@ export default function Home() {
           Compare grocery prices
         </h1>
         <p className="text-teal-100 text-sm mt-1">
-          Find the lowest final price across QuickBasket, BigMart, local stores & more
+          Find the lowest final price across QuickBasket, BigMart, local stores & quick delivery apps
         </p>
       </div>
 
